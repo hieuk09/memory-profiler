@@ -8,7 +8,7 @@ calculate the number of object generated in each piece of code
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'memory-profiler'
+gem 'memory-profiler-rb'
 ```
 
 And then execute:
@@ -17,7 +17,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install memory-profiler
+    $ gem install memory-profiler-rb
 
 ## Usage
 

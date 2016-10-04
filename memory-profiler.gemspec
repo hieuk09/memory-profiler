@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'memory/profiler/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "memory-profiler"
+  spec.name          = "memory-profiler-rb"
   spec.version       = Memory::Profiler::VERSION
   spec.authors       = ["Hieu Nguyen"]
   spec.email         = ["hieuk09@gmail.com"]
